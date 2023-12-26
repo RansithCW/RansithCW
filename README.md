@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @RansithCW
-- 👀 I’m interested in Machine Learning, AI, and Chemistry
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: email – ransithcweera@gmail.com, linkedin – www.linkedin.com/in/ransithweerasinghe
-
-<!---
-RansithCW/RansithCW is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Ransith Weerasinghe
+- 👀 I’m interested in Machine Learning, Mathematics and Chemistry
+- 🌱 I’m currently learning ML @ [Stanford online]([url](https://online.stanford.edu/courses/soe-ymls-machine-learning-specialization))
+- 💞️ I’m looking to collaborate on ML and Data Analysis projects
+- 📫 How to reach me: email – ransithcweera@gmail.com, LinkedIn – www.linkedin.com/in/ransithweerasinghe, phone – +1 (415) 872-2373
